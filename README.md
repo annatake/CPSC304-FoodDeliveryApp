@@ -1,4 +1,4 @@
-# CPSC304-FoodDeliveryApp
+# Food Delivery Database UI
 
 This is an application that allows the user to view, insert, delete, update tables, as well as run some queries to find some cool information about customers who use our \~imaginary\~ Food Delivery App! The purpose of this app is to help the user gain insight on which customer generates the most revenue for the business.
 
