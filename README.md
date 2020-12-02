@@ -5,7 +5,7 @@ This is an application that allows the user to view, insert, delete, update tabl
 # How to get started
 
 1. Clone this repository
-2. Open a terminal window and setup an SSH tunnel with port forwarding to the UBC server (the Java connection handler expects this to be set up before running the application)
+2. Open a terminal window and setup an SSH tunnel with port forwarding to the server containing the database(the Java connection handler expects this to be set up before running the application)
 3. Open the project in IntelliJ (or any other IDE) and click 'Run'
 4. Enter your JDBC Oracle login credentials
 5. Have fun with the app!
